@@ -8,5 +8,6 @@ int main()
     cin>>a;
     cout<<"\nValue of A is "<<a;
     int c;
+    c = a+b;
     return 0;
 }
